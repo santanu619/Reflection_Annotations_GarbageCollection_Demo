@@ -1,0 +1,13 @@
+﻿using AnnotationsDemo;
+using System;
+
+namespace AnnotationDemo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            AnnotationsTest.Display();
+        }
+    }
+}

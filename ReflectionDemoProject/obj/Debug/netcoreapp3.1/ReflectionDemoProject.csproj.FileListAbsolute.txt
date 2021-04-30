@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp3.1\ReflectionDemoProject.exe
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp3.1\ReflectionDemoProject.deps.json
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp3.1\ReflectionDemoProject.runtimeconfig.json
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp3.1\ReflectionDemoProject.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp3.1\ReflectionDemoProject.dll
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp3.1\ReflectionDemoProject.pdb
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp3.1\ReflectionDemoProject.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp3.1\ReflectionDemoProject.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp3.1\ReflectionDemoProject.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp3.1\ReflectionDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp3.1\ReflectionDemoProject.dll
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp3.1\ReflectionDemoProject.pdb
+C:\Users\SANTANU\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp3.1\ReflectionDemoProject.genruntimeconfig.cache
